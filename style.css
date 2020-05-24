@@ -301,3 +301,20 @@ padding: 0;
 .project-title{
     padding-top: 50px;
 }
+
+.lulu-title{
+    padding-top: 100px;
+}
+
+.project-subtitle{
+    padding-top: 30px;
+    display: block;
+    font-size: 14px;
+    color: #838383;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+
+.project-link{
+    padding-top: 30px;
+}
