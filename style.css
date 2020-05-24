@@ -202,8 +202,6 @@ padding: 0;
 .about-me .about-content .img img{
     width: 100%;
     display: block;
-    /* -webkit-transform: rotateY(180deg); */
-    /* transform: rotateY(180deg); */
 }
 
 .about-me .about-content .text{
@@ -294,4 +292,12 @@ padding: 0;
 
 .social-links a:hover .fa{
     color: #000000;
+}
+
+#projectExample{
+    text-align: center;
+}
+
+.project-title{
+    padding-top: 50px;
 }
