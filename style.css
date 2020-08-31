@@ -78,7 +78,7 @@ header .navbar ul li a.active::before{
 
 .home{
     min-height: 100vh;
-    background-image: url("./Images/Personal\ Portfolio\ Home\ Page\ Background.jpg");
+    background-image: url("./Images/Background Image for Portfolio.jpg");
     background-size: cover;
     background-position:center;
     padding: 15px;
@@ -318,3 +318,4 @@ padding: 0;
 .project-link{
     padding-top: 30px;
 }
+
