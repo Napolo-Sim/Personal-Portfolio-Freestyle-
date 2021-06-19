@@ -78,7 +78,7 @@ header .navbar ul li a.active::before{
 
 .home{
     min-height: 100vh;
-    background-image: url("./Images/Background Image for Portfolio.jpg");
+    background-image: url("./Images/Landing_Background_2.jpg");
     background-size: cover;
     background-position:center;
     padding: 15px;
